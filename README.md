@@ -34,18 +34,18 @@ Primero que nada debes forkear y clonar el repositorio a tu pc!
 
 Navegamos por el sitio buscando los productos que nos interesan, se puede navegar por secicones.
 
-   [![Product Name Screen Shot][product-USE]](https://ibb.co/mSgMZY2)
+   ![Product Name Screen Shot](https://ibb.co/mSgMZY2)
 
 <!-- PROCESO COMPRA -->
 ## PROCESO DE COMPRA
 
 Seleccionamos el producto que deseamos y la cantidad, luego los cargamos al carrito.
 
-[![Product Name Screen Shot][product-BUY]](https://ibb.co/ys8q42W)
+![Product Name Screen Shot](https://ibb.co/ys8q42W)
 
 Para finalizar la compra se deben completar datos personales, confirmando el email y asi se recibe el id de compra.
 
-[![Product Name Screen Shot][product-BUY]](https://ibb.co/hB85bBG)
+![Product Name Screen Shot](https://ibb.co/hB85bBG)
 
 ## Librerías utilizadas
 
