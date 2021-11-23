@@ -1,0 +1,30 @@
+.shopping {
+    width: 64px;
+    height: 64px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.shopping-icon {
+    color: rgb(63, 57, 52);
+}
+
+.shopping-icon:hover {
+    color:rgb(19, 16, 13);
+}
+
+
+.cart-number {
+    position: relative;
+    right: -30px;
+    top: -8px;
+    width: 18px;
+    height: 18px;
+    background-color: rgb(244, 134, 52);
+    border-radius: 8px;
+    color: white;
+    z-index: 1;
+    text-align: center;
+
+}

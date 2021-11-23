@@ -1,0 +1,10 @@
+.item-list-container {
+    width: 100%;
+}
+
+.products {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    justify-items: center;
+    margin: 2% 0%;
+}

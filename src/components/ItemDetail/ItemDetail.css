@@ -1,0 +1,28 @@
+
+.product-image {
+    margin-top: 2%;
+    padding: 2%;
+}
+.product-detail {
+    text-align: left;
+    margin-top: 4%;
+}
+
+.company {
+    color: #00416B;
+}
+
+.price {
+    font-weight: 700;
+    font-size: 2.2rem;
+    color: rgb(244, 134, 52);;
+}
+
+.add-button {
+    width: 40%;
+    height: 40px;
+    border: 1px solid rgb(244, 134, 52);
+    border-radius: 4px;
+    background-color: rgb(244, 134, 52);
+    color: white;
+}

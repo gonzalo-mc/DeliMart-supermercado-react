@@ -1,0 +1,22 @@
+.footer-container {
+    width: 100%;
+    background-color: rgb(56, 49, 44);
+    display: grid;
+    grid-template-columns: 2fr 1fr 1fr 1fr;
+    justify-items: stretch;
+    color: white;
+    text-align: start;
+    padding: 1%;
+}
+
+.footer-container h5 {
+    color: rgb(244, 134, 52);
+    font-style: oblique;
+}
+
+.footer-logo {
+    margin-left: 20%;
+    margin-top: 2%;
+    height: 70px;
+    width: 220px;
+}

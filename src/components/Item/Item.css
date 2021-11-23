@@ -1,0 +1,39 @@
+.item-container {
+    border-radius: 8px;
+    box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 1px 3px 1px;
+    width: 320px;
+    padding: 8px;
+    background-color: white;
+    margin: 2%;
+}
+
+.item-container h2 {
+    font-weight: 400;
+    color: #1c1b1b;
+    margin: 0%;
+}
+
+.item-image {
+    width: 200px;
+    height: 300px;
+    object-fit: cover;
+    object-position: center;
+    padding: 8px;
+}
+
+.item-price {
+    font-weight: 700;
+    font-size: 1.4rem;
+    color: rgb(244, 134, 52);
+}
+
+.detail-button {
+    width: 90%;
+    height: 40px;
+    border: 1px solid #00416B;
+    border-radius: 4px;
+    background-color: #00416B;
+    color: white;
+    margin-bottom: 2%;
+}
+

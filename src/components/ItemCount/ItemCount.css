@@ -1,0 +1,28 @@
+.item-count-container {
+    width: 240px;
+    padding: 8px;
+    background-color: white;
+}
+
+.counter-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin: 16px;
+}
+.counter-container p {
+    margin: 0px 16px;
+    font-size: 1.4rem;
+    font-weight: 400;
+}
+
+.counter-button {
+    height: 32px;
+    width: 32px;
+    border: 1px solid #00416B;
+    border-radius: 4px;
+    background-color: white;
+    color: #00416B;
+    font-size: 1.4rem;
+    font-weight: 400;
+}
