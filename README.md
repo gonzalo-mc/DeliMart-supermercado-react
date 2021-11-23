@@ -2,6 +2,11 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## DEPLOY
+
+https://delimart-supermercado.netlify.app/
+
+
 ## Descripción
 
 Tienda online de la marca de supermercados DeliMart donde podran comprar productos de distintos rubros, con facilidad y en pocos pasos.
